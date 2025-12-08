@@ -1,0 +1,16 @@
+# 1. macOS 시스템 파일 (지저분함 방지)
+.DS_Store
+
+# 2. 압축되지 않은 앱 번들 (절대 올리면 안 됨)
+# 우리는 zip 파일만 올릴 것이므로 .app 폴더는 무시합니다.
+*.app
+
+# 3. Sparkle 실행 도구 (바이너리 파일은 깃 관리 대상 아님)
+generate_appcast
+generate_keys
+
+# 4. 혹시 모를 보안 키 파일 (가장 중요 ⭐)
+# Private Key가 파일로 저장되었다면 절대 올리면 안 됩니다.
+*.pem
+*.key
+private_key
