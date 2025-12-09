@@ -3,12 +3,12 @@
     <channel>
         <title>rytmo</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 08 Dec 2025 16:47:31 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="rytmo.zip" length="19678478" type="application/octet-stream"/>
+            <title>1.0.1</title>
+            <pubDate>Tue, 09 Dec 2025 18:56:17 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19781107" type="application/octet-stream" sparkle:edSignature="VACbhSr1yLTPKruIi3p7v4cwpyG2jE4U389VcdhZAnT/famNd/v2zE4OtLIieRtkLCc/xqiCBSnd1Zv6v1EFAQ=="/>
         </item>
     </channel>
 </rss>
