@@ -9,7 +9,6 @@ generate_keys
 *.key
 private_key
 
-*.zip
 *.png
 
 DMG_SCRIPT.md
