@@ -4,27 +4,27 @@
         <title>rytmo</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Wed, 10 Dec 2025 00:55:44 +0900</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19785566" type="application/octet-stream" sparkle:edSignature="OdRImE36qOtFXHr3pjPKJNl18r5KvWMjskGZp4VSj41Gant+X+JGpINWKJ7f/mm+DHvzThsIxkFyqnGvu7a1AQ=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 10 Dec 2025 00:50:23 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19785572" type="application/octet-stream" sparkle:edSignature="kx2qF+6BubJJuqxBV30uRxsS7ysC09c+8G8LIRSi62NKQ9HLMfZnWFFEOuOW/aKW1AVpYtkshab734ScA8PYDA=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Wed, 10 Dec 2025 00:23:56 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19785426" type="application/octet-stream" sparkle:edSignature="77pP89IGrF3MtKEQJhDZCd3UfTEEc2SwJXrjYArKmvj/WDgWAbaIttYxSxGKFzAWktP1UOufr6rCCTLra1fCAA=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 10 Dec 2025 00:02:35 +0900</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19785413" type="application/octet-stream" sparkle:edSignature="59+86uCeb7kQR+mrGISdXfHyjAL3miY9biMQW0jFudqJQxz3D40Xtfnz5oAhRequGpIVwNJxyaBqZLwfe/6RBQ=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 09 Dec 2025 18:56:17 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19781107" type="application/octet-stream" sparkle:edSignature="VACbhSr1yLTPKruIi3p7v4cwpyG2jE4U389VcdhZAnT/famNd/v2zE4OtLIieRtkLCc/xqiCBSnd1Zv6v1EFAQ=="/>
         </item>
     </channel>
 </rss>
