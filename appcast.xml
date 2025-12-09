@@ -4,6 +4,14 @@
         <title>rytmo</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Wed, 10 Dec 2025 00:23:56 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="19785426" type="application/octet-stream" sparkle:edSignature="77pP89IGrF3MtKEQJhDZCd3UfTEEc2SwJXrjYArKmvj/WDgWAbaIttYxSxGKFzAWktP1UOufr6rCCTLra1fCAA=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Wed, 10 Dec 2025 00:02:35 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
