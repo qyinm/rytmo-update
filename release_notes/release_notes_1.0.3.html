@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #222222;
+            --secondary-text: #666666;
+            --accent-color: #000000;
+            --card-bg: #f9f9f9;
+            --border-color: #eeeeee;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121212;
+                --text-color: #e0e0e0;
+                --secondary-text: #999999;
+                --accent-color: #ffffff;
+                --card-bg: #1e1e1e;
+                --border-color: #333333;
+            }
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 24px;
+            -webkit-font-smoothing: antialiased;
+        }
+        .header {
+            margin-bottom: 24px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 16px;
+        }
+        h1 {
+            font-size: 20px;
+            font-weight: 700;
+            margin: 0;
+            color: var(--accent-color);
+        }
+        .version-info {
+            font-size: 12px;
+            color: var(--secondary-text);
+            margin-top: 4px;
+        }
+        .section {
+            margin-bottom: 24px;
+        }
+        h2 {
+            font-size: 15px;
+            font-weight: 600;
+            margin: 0 0 12px 0;
+            color: var(--accent-color);
+            display: flex;
+            align-items: center;
+        }
+        h2::before {
+            content: "";
+            display: inline-block;
+            width: 3px;
+            height: 15px;
+            background-color: var(--accent-color);
+            margin-right: 8px;
+            border-radius: 2px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            margin-bottom: 10px;
+            padding-left: 20px;
+            position: relative;
+        }
+        li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--secondary-text);
+        }
+        b {
+            font-weight: 600;
+            color: var(--accent-color);
+        }
+        .footer {
+            margin-top: 32px;
+            font-size: 12px;
+            color: var(--secondary-text);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Version 1.0.3 Update</h1>
+        <div class="version-info">January 11, 2026</div>
+    </div>
+
+    <div class="section">
+        <h2>New Features</h2>
+        <ul>
+            <li><b>To-do List:</b> Introducing a sleek To-do List feature. Now you can manage your tasks effectively while listening to music.</li>
+            <li><b>Minimal Menubar UI:</b> The menubar popover has been redesigned with a more intuitive and minimal interface.</li>
+            <li><b>Waveform Visualization:</b> Experience dynamic audio waveforms displayed at the top while playing music.</li>
+            <li><b>Menubar Timer:</b> Added a timer feature accessible directly from the menubar to help you track remaining time.</li>
+            <li><b>Audio Output Selection:</b> You can now choose your preferred audio output device, such as speakers or headphones.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Improvements & Fixes</h2>
+        <ul>
+            <li><b>Enhanced Playback Controls:</b> Volume control and playback seeking (Seek) are now more precise.</li>
+            <li><b>Layout Optimization:</b> Improved track list scroll behavior and overall layout stability.</li>
+            <li><b>Bug Fixes:</b> Resolved memory leak issues during timer execution and fixed app re-launch initialization warnings.</li>
+            <li><b>UI Polishing:</b> Refined the Black & White theme for better consistency across the entire app.</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        Thank you for using Rytmo.
+    </div>
+</body>
+</html>
