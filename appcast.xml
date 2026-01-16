@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://qyinm.github.io/rytmo-update/release_notes/release_notes_1.0.4.html</sparkle:releaseNotesLink>
-            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="20517221" type="application/octet-stream" sparkle:edSignature="AC4ifPl++Np9X+opQKmiwTC52QY+i4XcNqWLZRS0i8MHHFuADI79/okJyK6qhAtUvrEkFd/7FXnc7R1hLUXmCA=="/>
+            <enclosure url="https://qyinm.github.io/rytmo-update/rytmo.zip" length="20469172" type="application/octet-stream" sparkle:edSignature="5bnexewOsOBQBAQjcMSnd5CcZf2rzNanj2GYIVD2jmSYLI3RBCMoVWTd8DcTAStdKXsEEGpeEyRwaqIdpKehBg=="/>
         </item>
         <item>
             <title>1.0.3</title>
